@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ugailanu.github.io/sitemap.html
+Sitemap: https://ugailanu.github.io/fa/sitemap.html
+Sitemap: https://ugailanu.github.io/fi/sitemap.html
+Sitemap: https://ugailanu.github.io/fu/sitemap.html
